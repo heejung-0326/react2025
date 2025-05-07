@@ -1,0 +1,28 @@
+
+*{margin:0px; padding:0px;}
+.App{
+  background-color: #c93463;
+}
+.App > h1 {
+  color: #fff;
+  text-align: center;
+
+}
+body{
+  line-height: 36px;
+  color: #333;
+}
+main{
+background: #efb5b5;}
+.title3{
+  background-color: aliceblue;
+  color:#600c61;
+}
+ul{margin-left:25px;}
+
+.footer{
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  line-height: 40px;
+}
